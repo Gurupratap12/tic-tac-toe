@@ -6,6 +6,9 @@ body{
     background-color: #003559;
     text-align: center;
 }
+h1{
+    font-size: 8vmin;
+}
 .container{
     height: 70vh;
     display: flex;
@@ -62,4 +65,5 @@ body{
 
 .hide{
     display: none;
+
 }
